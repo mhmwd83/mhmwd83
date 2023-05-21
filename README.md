@@ -27,9 +27,9 @@
 ![Circuit](https://img.shields.io/badge/-Circuit-05122A?style=flat&logo=Circuit)&nbsp;
 ![Electronics](https://img.shields.io/badge/-Electronics-05122A?style=flat&logo=Electronics&logoColor=339933)&nbsp;
 ![Altium](https://img.shields.io/badge/-Altium-05122A?style=flat&logo=Altium&logoColor=339933)&nbsp;
-![CLanguage](https://img.shields.io/badge/-CLanguagew%20-05122A?style=flat&logo=CLanguage)&nbsp;
-![Batchfile](https://img.shields.io/badge/-Batchfile%20-05122A?style=flat&logo=Batchfile)&nbsp;
-![Makefile](https://img.shields.io/badge/-Makefile%20-05122A?style=flat&logo=Makefile)&nbsp;
+![CLanguage](https://img.shields.io/badge/-C-Language%20-05122A?style=flat&logo=CLanguage)&nbsp;
+![Batchfile](https://img.shields.io/badge/-Batch-file%20-05122A?style=flat&logo=Batchfile)&nbsp;
+![Makefile](https://img.shields.io/badge/-Make-file%20-05122A?style=flat&logo=Makefile)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
