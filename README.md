@@ -15,13 +15,39 @@
 - 👨‍💻 As a PCB Designer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Circuit, PCB, and Classic, or anything related to Electronics.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
+<br>
+<br>
+
+📝 ***Contact Me...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/MahmoudGamal?label=Follow%20Me&style=social)](https://github.com/mhmwd83)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Mahmoud_Gamal-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/mhmwd8383/)
+[![Mail](https://img.shields.io/badge/Mahmoud_Gamal-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:mahmoud_8383@rocketmail.com)
+<br>
+[![HackerRank](https://img.shields.io/badge/HackerRank-Mahmoud_Gamal-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/mahmoud_8383)
+</br>
 
 
-### Connect with Me :
+<div align="center">
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=mhmwd83" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+## 📈 My Contributions <br>
 
-<a href="https://www.linkedin.com/in/mhmwd8383/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/mhmwd401" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Gamal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+![trophy](https://github-profile-trophy.vercel.app/?username=mhmwd83&theme=onedark)
+
+
+## 🛠️ languages and tools
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code> 
+<code><img height="50" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code> 
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Notepad%2B%2B_Logo.svg/2367px-Notepad%2B%2B_Logo.svg.png"></code>
+<code><img height="50" src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png"></code> 
+<!-- Footer -->
+<br>
+  
 ### 🛠 &nbsp;Tech Stack
 ![PCB](https://img.shields.io/badge/-PCB-05122A?style=flat&logo=PCB)&nbsp;
 ![Circuit](https://img.shields.io/badge/-Circuit-05122A?style=flat&logo=Circuit)&nbsp;
@@ -37,11 +63,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![LabView](https://img.shields.io/badge/-LabView%20-05122A?style=flat&logo=LabView)&nbsp;
+ <br>
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmwd83&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmwd83&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
 <br>
 <a href="https://komarev.com/ghpvc/?username=mhmwd83&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=mhmwd83&style=for-the-badge">
 </a>
+  
+  <div align="center">
+<img height="120" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+    
