@@ -23,8 +23,8 @@
 <a href="https://www.linkedin.com/in/mhmwd8383/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Gamal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/mhmwd401" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Gamal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![PCB-Design](https://img.shields.io/badge/-PCB-Design-05122A?style=flat&logo=PCB-Design)&nbsp;
-![Circuit-Design](https://img.shields.io/badge/-Circuit-Design-05122A?style=flat&logo=Circuit-Design)&nbsp;
+![PCB](https://img.shields.io/badge/-PCB-05122A?style=flat&logo=PCB)&nbsp;
+![Circuit](https://img.shields.io/badge/-Circuit-05122A?style=flat&logo=Circuit)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
