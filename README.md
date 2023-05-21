@@ -26,6 +26,7 @@
 ![PCB](https://img.shields.io/badge/-PCB-05122A?style=flat&logo=PCB)&nbsp;
 ![Circuit](https://img.shields.io/badge/-Circuit-05122A?style=flat&logo=Circuit)&nbsp;
 ![Electronics](https://img.shields.io/badge/-Electronics-05122A?style=flat&logo=Electronics&logoColor=339933)&nbsp;
+![Altium](https://img.shields.io/badge/-Altium-05122A?style=flat&logo=Altium&logoColor=339933)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
