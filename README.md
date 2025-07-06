@@ -77,6 +77,4 @@
 <img height="100" alt="Thanks for visiting " width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
-    <img src="https://raw.githubusercontent.com/mhmwd83/mhmwd83/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/mhmwd83/mhmwd83/output/snake.svg" alt="Snake animation" />
